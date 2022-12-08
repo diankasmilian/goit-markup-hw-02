@@ -1,0 +1,38 @@
+:root {
+    --primery-text-color: #2E2F42;
+    --text-color: #434455;
+    --color-logo: #4D5AE5;
+    --minor-color: #E7E9FC;
+    --two-color-logo: #F4F4FD;
+}
+
+.list {
+    list-style: none;
+}
+
+/* Main content */
+.body {
+    background-color: #fff;
+}
+/* Section 1 Hero */
+.hero {
+    background-color: var(--primery-text-color);
+}
+.hero-title {
+    color: #fff;
+}
+.btn {
+    color: #fff;
+    background-color: var(--color-logo);
+}
+
+/* Section 2 */
+.title {
+    color: var(--primery-text-color);
+}
+.text {
+    color: var(--text-color);
+}
+.secondary-title {
+    color: var(--primery-text-color);
+}
